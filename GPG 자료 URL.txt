@@ -1,0 +1,2 @@
+<<GPG 자료 URL>>
+https://www.linuxbabe.com/security/a-practical-guide-to-gpg-part-1-generate-your-keypair
